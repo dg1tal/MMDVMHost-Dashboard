@@ -6,7 +6,7 @@
   <div class="table-responsive">  
   <table class="table">
     <tr>
-      <th>Actual Mode</th>
+      <th>Current Mode</th>
       <th>D-Star linked to</th>
       <th>DMR TS1 last linked to</th>
       <th>DMR TS2 last linked to</th>
