@@ -24,8 +24,8 @@
         <table class="table">
           <tr>
             <th>Location</th>
-            <th>TX-Freq.</th>
-            <th>Rx-Freq.</th>
+            <th>Input</th>
+            <th>Output</th>
 <?php
 	if (getEnabled("System Fusion Network", $mmdvmconfigs) == 1) {
 ?>
